@@ -1,0 +1,9 @@
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\bin\Debug\netcoreapp3.1\DbServerTest.Entities.deps.json
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\bin\Debug\netcoreapp3.1\DbServerTest.Entities.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\bin\Debug\netcoreapp3.1\DbServerTest.Entities.pdb
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\obj\Debug\netcoreapp3.1\DbServerTest.Entities.csprojAssemblyReference.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\obj\Debug\netcoreapp3.1\DbServerTest.Entities.AssemblyInfoInputs.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\obj\Debug\netcoreapp3.1\DbServerTest.Entities.AssemblyInfo.cs
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\obj\Debug\netcoreapp3.1\DbServerTest.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\obj\Debug\netcoreapp3.1\DbServerTest.Entities.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Entities\obj\Debug\netcoreapp3.1\DbServerTest.Entities.pdb

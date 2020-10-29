@@ -1,0 +1,12 @@
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\bin\Debug\netcoreapp3.1\DbServerTest.Repositories.deps.json
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\bin\Debug\netcoreapp3.1\DbServerTest.Repositories.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\bin\Debug\netcoreapp3.1\DbServerTest.Repositories.pdb
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\bin\Debug\netcoreapp3.1\DbServerTest.Entities.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\bin\Debug\netcoreapp3.1\DbServerTest.Entities.pdb
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\obj\Debug\netcoreapp3.1\DbServerTest.Repositories.csprojAssemblyReference.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\obj\Debug\netcoreapp3.1\DbServerTest.Repositories.AssemblyInfoInputs.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\obj\Debug\netcoreapp3.1\DbServerTest.Repositories.AssemblyInfo.cs
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\obj\Debug\netcoreapp3.1\DbServerTest.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\obj\Debug\netcoreapp3.1\DbServerTest.Repositories.csproj.CopyComplete
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\obj\Debug\netcoreapp3.1\DbServerTest.Repositories.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Repositories\obj\Debug\netcoreapp3.1\DbServerTest.Repositories.pdb

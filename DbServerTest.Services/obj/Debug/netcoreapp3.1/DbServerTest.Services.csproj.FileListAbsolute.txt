@@ -1,0 +1,16 @@
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Services.deps.json
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Services.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Services.pdb
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Dto.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Entities.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Repositories.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Dto.pdb
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Repositories.pdb
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\bin\Debug\netcoreapp3.1\DbServerTest.Entities.pdb
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\obj\Debug\netcoreapp3.1\DbServerTest.Services.csprojAssemblyReference.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\obj\Debug\netcoreapp3.1\DbServerTest.Services.AssemblyInfoInputs.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\obj\Debug\netcoreapp3.1\DbServerTest.Services.AssemblyInfo.cs
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\obj\Debug\netcoreapp3.1\DbServerTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\obj\Debug\netcoreapp3.1\DbServerTest.Services.csproj.CopyComplete
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\obj\Debug\netcoreapp3.1\DbServerTest.Services.dll
+C:\Users\Téury\source\repos\DbServerTest\DbServerTest.Services\obj\Debug\netcoreapp3.1\DbServerTest.Services.pdb

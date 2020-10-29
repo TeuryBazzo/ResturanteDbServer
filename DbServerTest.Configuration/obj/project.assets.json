@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DbServerTest.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DbServerTest.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DbServerTest.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbServerTest.Dto.dll": {}
+        }
+      },
+      "DbServerTest.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DbServerTest.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbServerTest.Entities.dll": {}
+        }
+      },
+      "DbServerTest.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DbServerTest.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DbServerTest.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbServerTest.Repositories.dll": {}
+        }
+      },
+      "DbServerTest.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DbServerTest.Dto": "1.0.0",
+          "DbServerTest.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DbServerTest.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DbServerTest.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DbServerTest.Dto/1.0.0": {
+      "type": "project",
+      "path": "../DbServerTest.Dto/DbServerTest.Dto.csproj",
+      "msbuildProject": "../DbServerTest.Dto/DbServerTest.Dto.csproj"
+    },
+    "DbServerTest.Entities/1.0.0": {
+      "type": "project",
+      "path": "../DbServerTest.Entities/DbServerTest.Entities.csproj",
+      "msbuildProject": "../DbServerTest.Entities/DbServerTest.Entities.csproj"
+    },
+    "DbServerTest.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../DbServerTest.Repositories/DbServerTest.Repositories.csproj",
+      "msbuildProject": "../DbServerTest.Repositories/DbServerTest.Repositories.csproj"
+    },
+    "DbServerTest.Services/1.0.0": {
+      "type": "project",
+      "path": "../DbServerTest.Services/DbServerTest.Services.csproj",
+      "msbuildProject": "../DbServerTest.Services/DbServerTest.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DbServerTest.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Téury\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Configuration\\DbServerTest.Configuration.csproj",
+      "projectName": "DbServerTest.Configuration",
+      "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Configuration\\DbServerTest.Configuration.csproj",
+      "packagesPath": "C:\\Users\\Téury\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Configuration\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Téury\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Services\\DbServerTest.Services.csproj": {
+              "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Services\\DbServerTest.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Configuration\\DbServerTest.Configuration.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Configuration\\DbServerTest.Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Configuration\\DbServerTest.Configuration.csproj",
+        "projectName": "DbServerTest.Configuration",
+        "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Configuration\\DbServerTest.Configuration.csproj",
+        "packagesPath": "C:\\Users\\Téury\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Téury\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Services\\DbServerTest.Services.csproj": {
+                "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Services\\DbServerTest.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Dto\\DbServerTest.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Dto\\DbServerTest.Dto.csproj",
+        "projectName": "DbServerTest.Dto",
+        "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Dto\\DbServerTest.Dto.csproj",
+        "packagesPath": "C:\\Users\\Téury\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Téury\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Entities\\DbServerTest.Entities.csproj": {
+                "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Entities\\DbServerTest.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Entities\\DbServerTest.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Entities\\DbServerTest.Entities.csproj",
+        "projectName": "DbServerTest.Entities",
+        "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Entities\\DbServerTest.Entities.csproj",
+        "packagesPath": "C:\\Users\\Téury\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Téury\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Repositories\\DbServerTest.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Repositories\\DbServerTest.Repositories.csproj",
+        "projectName": "DbServerTest.Repositories",
+        "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Repositories\\DbServerTest.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Téury\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Téury\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Entities\\DbServerTest.Entities.csproj": {
+                "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Entities\\DbServerTest.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Services\\DbServerTest.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Services\\DbServerTest.Services.csproj",
+        "projectName": "DbServerTest.Services",
+        "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Services\\DbServerTest.Services.csproj",
+        "packagesPath": "C:\\Users\\Téury\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Téury\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Dto\\DbServerTest.Dto.csproj": {
+                "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Dto\\DbServerTest.Dto.csproj"
+              },
+              "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Repositories\\DbServerTest.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Téury\\source\\repos\\DbServerTest\\DbServerTest.Repositories\\DbServerTest.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DbServerTest.Dto\DbServerTest.Dto.csproj" />
+    <ProjectReference Include="..\DbServerTest.Repositories\DbServerTest.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
