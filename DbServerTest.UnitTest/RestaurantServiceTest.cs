@@ -22,7 +22,7 @@ namespace DbServerTest.UnitTest
 
         
         [Fact]
-        public void GetRestaurantMoreVoted()
+        public void GetMoreVoted_ShouldReturnRestaurantMoreVoted_WhenFindMostVoted()
         {
             var persons = _personService.GetAll();
             var restaurants = _restaurantService.GetAll();
@@ -39,7 +39,7 @@ namespace DbServerTest.UnitTest
         }
 
         [Fact]
-        public void PersonAlreadyVotedToday()
+        public void PersonAlreadyVotedToday_ShouldReturnTrue_WhenFindedVoteOnDay()
         {
             var persons = _personService.GetAll();
             var restaurants = _restaurantService.GetAll();
@@ -53,7 +53,7 @@ namespace DbServerTest.UnitTest
         }
 
         [Fact]
-        public void PersonNotVotedToday()
+        public void PersonNotVotedToday_ShouldReturnFalse_WhenFindedNotVoteOnDay()
         {
             var persons = _personService.GetAll();
             var restaurants = _restaurantService.GetAll();
@@ -68,7 +68,7 @@ namespace DbServerTest.UnitTest
         }
 
         [Fact]
-        public void RestaurantAlreadyVotedThisWeek()
+        public void RestaurantAlreadyChosenForWeek_ShouldReturnTrue_WhenRestaurantIsChoicedOnTheCurrentWeek()
         {
             var persons = _personService.GetAll();
             var restaurants = _restaurantService.GetAll();
@@ -88,7 +88,7 @@ namespace DbServerTest.UnitTest
         }
 
         [Fact]
-        public void RestaurantCanBeVotedAfterOneWeekDays()
+        public void RestaurantAlreadyChosenForWeek_ShouldReturnFalse_WhenRestaurantIsNotChoicedOnTheCurrentWeek()
         {
             var persons = _personService.GetAll();
             var restaurants = _restaurantService.GetAll();

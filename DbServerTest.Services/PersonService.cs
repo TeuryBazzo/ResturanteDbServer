@@ -2,6 +2,7 @@
 using DbServerTest.Repositories.Interfaces;
 using DbServerTest.Services.Interfaces;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace DbServerTest.Services
 {
@@ -16,14 +17,9 @@ namespace DbServerTest.Services
 
         public IEnumerable<PersonDto> GetAll()
         {
-            var personsDto = new List<PersonDto>();
-
             var persons = _personRepository.GetAll();
 
-            foreach (var person in persons)
-                personsDto.Add(new PersonDto { Name = person.Name, PersonId = person.PersonId });
-
-            return personsDto;
+            return persons.Select(x => PersonDto.ToDto(x));
         }
     }
 }
